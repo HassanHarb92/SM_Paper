@@ -1,0 +1,4 @@
+You will be given the output of another language model that has already answered a multiple-choice question.
+Your task is **not to determine the correct answer**, but simply to **extract the letter** (A, B, C, or D) that corresponds to the answer selected by the model.
+Only return the single correct answer letter. Do **not** include any explanation or additional text. Just one letter.
+Sometimes, the first LLM will return letters like this: A, or (A), or A), or 1, or spell out the entire choice. your job is to give me JUST the letter, i.e. A, B, C, D

@@ -1,0 +1,7 @@
+Selected Principle(s): Definition, Induction
+
+Socratic Reformulation: What is the initial step in the process of photosynthesis, and how do we define the role of each component involved in this step?
+
+Self-Query and Answer: To determine the initial step in photosynthesis, we must first define the key components and their roles in the process. Photosynthesis begins when chlorophyll, the green pigment in plant leaves, captures light energy from the sun. This captured light energy is then used to convert carbon dioxide and water into glucose and oxygen. Therefore, the initial step involves the capture of light energy by chlorophyll.
+
+Given this understanding, the correct answer is (C) Chlorophyll in the leaf captures light energy. This step signals the beginning of photosynthesis, as it initiates the conversion of light energy into chemical energy, which is essential for the subsequent steps in the process.
